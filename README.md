@@ -1,7 +1,7 @@
 
 # react-native-rn-zxing
 
-### Finally ... an easy way to implement an effecient QR Code scanner (Zxing based) using React native.
+### 🔥 Finally 🔥 ... an easy way to implement an efficient QR Code scanner (Zxing based) using React native.
 
 ## Getting started
 
@@ -45,5 +45,3 @@ onBarcodeScanned = (data) => {
 };
 
 ```
-
-#### P.S : only available in Android 
